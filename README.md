@@ -1,13 +1,13 @@
 # Site - Carta Mágica
-Esse site foi criado com o intuito de cumprir a segunda parte de uma atividade proposta na disciplina de Desenvolvimento Web I, durante a formação no curso DSM na Fatec. A qual solicita que seja feito uma animação utilizando HTML, CSS e JavaScript. Nesse caso foi criada uma carta que rotaciona no sentido horizontal, com efeito 3D, ao ser clicada, maudando a sua figura apresentada.
+Esse site foi criado com o intuito de cumprir a segunda parte de uma atividade proposta na disciplina de Desenvolvimento Web I, durante a formação no curso DSM na Fatec. A qual solicita que seja feita uma animação utilizando HTML, CSS e JavaScript. Nesse caso, foi criada uma carta que rotaciona no sentido horizontal, com efeito 3D, ao ser clicada, maudando a sua figura apresentada.
 
-## 🚀 [Link do Site no Ar](https://luis-pedro-dutra-carrocini.github.io/Carta-Magica/index.html)
-
-## 🚀 [Link do CodePen](https://codepen.io/Lu-s-Pedro/pen/OJYyNyQ)
-
+## 🚀 Links
+* [Site no Ar](https://luis-pedro-dutra-carrocini.github.io/Carta-Magica/index.html)
+* [CodePen](https://codepen.io/Lu-s-Pedro/pen/OJYyNyQ)
 
 ## 📦 Aparência
 
+<img src="/prints/carta-magica.gif">
 
 ## 🚀 Começando
 
